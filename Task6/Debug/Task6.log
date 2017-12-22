@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task6\task6\source.cpp(33): warning C4800: int: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+  Task6.vcxproj -> C:\Users\morga\Documents\Visual Studio 2015\Projects\2course\tasks\Task6\Debug\Task6.exe
+  Task6.vcxproj -> C:\Users\morga\Documents\Visual Studio 2015\Projects\2course\tasks\Task6\Debug\Task6.pdb (Partial PDB)
